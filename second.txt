@@ -1,1 +1,2 @@
+Resolve conflict:
 This is my second file - Main branch version
